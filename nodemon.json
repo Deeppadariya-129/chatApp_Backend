@@ -1,0 +1,13 @@
+{
+    "watch": [
+        "controllers",
+        "routes",
+        "models",
+        "."
+    ],
+    "ext": "ts",
+    "ignore": [
+        "dist"
+    ],
+    "exec": "npx ts-node index.ts"
+}
